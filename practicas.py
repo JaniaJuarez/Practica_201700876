@@ -285,7 +285,7 @@ def unir_personas(lista):
 def main():
     comando = ""
     while(True):
-        comando = input(">>> ")        
+        comando = input("Eliga comando a utilizar: ")        
         seleccionador(lexico(comando))
         if(comando == "salir"):
             exit()
