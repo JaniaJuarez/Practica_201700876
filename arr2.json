@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "registro 3",
+        "edad": 45,
+        "activo": true,
+        "promedio": 56.456
+    },
+    {
+        "nombre": "registro 4",
+        "edad": 35,
+        "activo": false,
+        "promedio": 45.896
+    }
+]
