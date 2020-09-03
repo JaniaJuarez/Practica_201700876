@@ -42,6 +42,8 @@ SELECCIONAR nombre, edad DONDE promedio = 14.45 , se puede ingresar en la consol
 
 * El tercer comando es el MAXIMO este nos va servir par tener el Maximo de edad y  el de promedio de los archivos .JSON que se cargaron a memoria, La forma de ingresarlo en consola es MAXIMO edad, MAXIMO promedio.
 
+![maximo](https://user-images.githubusercontent.com/69007766/92061999-e13b0a00-ed54-11ea-953c-57067b0a66c3.png)
+
 
 
 
