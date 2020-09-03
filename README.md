@@ -21,6 +21,5 @@ para que el usuario lo pueda entender y poder realizar las activades solicitadas
 
 2. **Se ejecuta el Progrograma**
  
-    *Se ejecuta el en el boton que aparece en el lado de arriba o con también se puede ejecutar con ctrl + F5
-    
+Se ejecuta en el boton que aparece en la parte de arriba, también se puede ejecutar por medio de ctrl + F5.        
 
