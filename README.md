@@ -39,3 +39,27 @@ SELECCIONAR nombre, edad DONDE promedio = 14.45 , se puede ingresar en la consol
 
 
 ![seleccionar](https://user-images.githubusercontent.com/69007766/92060983-6e309400-ed52-11ea-9344-1df8902de1d7.png)
+
+* El tercer comando es el MAXIMO este nos va servir par tener el Maximo de edad y  el de promedio de los archivos .JSON que se cargaron a memoria, La forma de ingresarlo en consola es MAXIMO edad, MAXIMO promedio.
+
+
+
+
+* El cuarto comando es el MINIMO este comando nos imprimira el Minimo de edad y promedio de los archivos cargados a memoria, se ingresan  en consola como MINIMO EDAD, MINIMO promedio.
+
+
+
+
+* El quinto comando es el de SUMA  este comando nos servira para sumr los valores de edad y promedio segun los solicitemos, se escribe en consola como SUMA edad, Suma promedio. y nos devuelve la suma de las edades segun los registros que esten en memoria.
+
+
+
+
+
+* El sexto comando se llama CUENTA este comando nos imprimira los el numero de registros que se encuentran cargados en memoria, se escribe en consola como CUENTA.
+
+
+
+
+
+* El septimo comando es el de REPORTAR  este comando a la hora de escribirlo en la consola nos va retornar a un navegador, con la tabla de los registros solicitados, se escribe en consola REPORTAR  5 , ese 5 significa que  necesitamos los primeros 5 registros que estan en el archivo cargado. 
