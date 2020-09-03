@@ -64,7 +64,7 @@ SELECCIONAR nombre, edad DONDE promedio = 14.45 , se puede ingresar en la consol
 
 * El sexto comando se llama CUENTA este comando nos imprimira los el numero de registros que se encuentran cargados en memoria, se escribe en consola como CUENTA.
 
-
+![cuenta](https://user-images.githubusercontent.com/69007766/92062477-109e4680-ed56-11ea-8d00-f8c6cd129071.png)
 
 
 
