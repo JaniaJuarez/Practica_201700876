@@ -25,3 +25,8 @@ Se ejecuta en el boton que aparece en la parte de arriba, también se puede ejec
 
  
 ![ejecutar](https://user-images.githubusercontent.com/69007766/92059867-94086980-ed4f-11ea-90ad-4af415686b1e.png)
+
+
+3. **Utilizacion de Primer Comando**
+
+* El primer comando es el de CARGAR este comando nos sirve para cargar N archivos .JSON que solicite el usuario que va utilizar el programa, ya ejecutado el programa colocamos CaRgaR se puede escribir como lo desemos lo único que los archivos si tienen que escribir tal y como los guardamos.
