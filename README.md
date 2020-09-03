@@ -20,3 +20,5 @@ para que el usuario lo pueda entender y poder realizar las activades solicitadas
       ![Iniciarprograma](https://user-images.githubusercontent.com/69007766/92050074-615b7280-ed49-11ea-9981-276e67072454.png)
 
 2. **Se ejecuta el Progrograma**
+ 
+    *Se ejecuta en el botón que aparece en la esquina para poder ejecutar el programa, o bien presionando ctrl+F5.  
