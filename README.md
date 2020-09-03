@@ -69,3 +69,5 @@ SELECCIONAR nombre, edad DONDE promedio = 14.45 , se puede ingresar en la consol
 
 
 * El septimo comando es el de REPORTAR  este comando a la hora de escribirlo en la consola nos va retornar a un navegador, con la tabla de los registros solicitados, se escribe en consola REPORTAR  5 , ese 5 significa que  necesitamos los primeros 5 registros que estan en el archivo cargado. 
+
+![reportar](https://user-images.githubusercontent.com/69007766/92062344-bf8e5280-ed55-11ea-834c-1db136fdb744.png)
