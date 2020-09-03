@@ -36,3 +36,6 @@ Se ejecuta en el boton que aparece en la parte de arriba, también se puede ejec
 * El segundo comando es el de SELECCIONAR, este comando tiene 3 formas de imprimir  ya que cualquiera puede imprimir lo que el usurio desee tenemos  SELECCIONAR nombre, edad, promedio, activo DONDE nombre = “Francisco 
 SELECCIONAR *
 SELECCIONAR nombre, edad DONDE promedio = 14.45 , se puede ingresar en la consola esos 3 metodos para utilizar el comando SELECCIONAR
+
+
+![seleccionar](https://user-images.githubusercontent.com/69007766/92060983-6e309400-ed52-11ea-9344-1df8902de1d7.png)
