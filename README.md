@@ -49,6 +49,9 @@ SELECCIONAR nombre, edad DONDE promedio = 14.45 , se puede ingresar en la consol
 
 * El cuarto comando es el MINIMO este comando nos imprimira el Minimo de edad y promedio de los archivos cargados a memoria, se ingresan  en consola como MINIMO EDAD, MINIMO promedio.
 
+![minimo](https://user-images.githubusercontent.com/69007766/92062134-3840df00-ed55-11ea-80dc-f06e4e2a9569.png)
+
+
 
 
 
