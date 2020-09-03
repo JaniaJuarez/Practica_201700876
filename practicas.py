@@ -269,7 +269,10 @@ def ejecutar_cargar(lista):
         if(lista[i].id == "identificador"):
             lista_archivos.append(lista[i].lexema)
     for i in range(0, len(lista_archivos)):
-        csv_file = open(lista_archivos[i]+".json", "r") #Leer
+        relativepath= lista_archivos[i] + ".json"
+        dirname = os.path.dirname(__file__)
+        filename = os.path.join(dirname, relativepath)
+        csv_file = open(filename) #leer
         texto = csv_file.read()
         arr_json = json.loads(texto)
         unir_personas(arr_json)
