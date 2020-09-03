@@ -21,4 +21,5 @@ para que el usuario lo pueda entender y poder realizar las activades solicitadas
 
 2. **Se ejecuta el Progrograma**
  
-    *Se ejecuta en el botón que aparece en la esquina para poder ejecutar el programa, o bien presionando ctrl+F5.  
+                
+
