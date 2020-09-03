@@ -24,4 +24,4 @@ para que el usuario lo pueda entender y poder realizar las activades solicitadas
 Se ejecuta en el boton que aparece en la parte de arriba, también se puede ejecutar por medio de ctrl + F5.        
 
  
-      ![ejecutar](https://user-images.githubusercontent.com/69007766/92059867-94086980-ed4f-11ea-90ad-4af415686b1e.png)
+![ejecutar](https://user-images.githubusercontent.com/69007766/92059867-94086980-ed4f-11ea-90ad-4af415686b1e.png)
