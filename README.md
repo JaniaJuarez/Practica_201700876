@@ -27,10 +27,12 @@ Se ejecuta en el boton que aparece en la parte de arriba, también se puede ejec
 ![ejecutar](https://user-images.githubusercontent.com/69007766/92059867-94086980-ed4f-11ea-90ad-4af415686b1e.png)
 
 
-3. **Utilizacion de Primer Comando**
+3. **Utilizacion de Comandos**
 
 * El primer comando es el de CARGAR este comando nos sirve para cargar N archivos .JSON que solicite el usuario que va utilizar el programa, ya ejecutado el programa colocamos CaRgaR se puede escribir como lo desemos lo único que los archivos si tienen que escribir tal y como los guardamos.
 
 ![cargar](https://user-images.githubusercontent.com/69007766/92060456-06c61480-ed51-11ea-956b-e5b77c2ee23f.png)
 
-
+* El segundo comando es el de SELECCIONAR, este comando tiene 3 formas de imprimir  ya que cualquiera puede imprimir lo que el usurio desee tenemos  SELECCIONAR nombre, edad, promedio, activo DONDE nombre = “Francisco 
+SELECCIONAR *
+SELECCIONAR nombre, edad DONDE promedio = 14.45 , se puede ingresar en la consola esos 3 metodos para utilizar el comando SELECCIONAR
